@@ -1,4 +1,4 @@
-Poerfolio: https://portfoliobypaolo.netlify.app/
+Porfolio: https://portfoliobypaolo.netlify.app/
 
 # React + Vite
 
